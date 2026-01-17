@@ -15,3 +15,9 @@ This app works like a real AC remote on your phone.
 - Can be extended for WiFi AC
 
 ---
+## Screenshots 📷
+
+Add your app screenshots here.
+
+---
+
