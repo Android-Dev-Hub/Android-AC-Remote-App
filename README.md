@@ -20,4 +20,12 @@ This app works like a real AC remote on your phone.
 Add your app screenshots here.
 
 ---
+## Requirements 🛠
 
+- Android Studio  
+- Minimum Android 5.0  
+- Phone with IR Blaster (for IR feature)  
+- Kotlin / Java  
+- XML Layout
+
+---
