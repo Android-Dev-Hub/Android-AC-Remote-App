@@ -29,3 +29,10 @@ Add your app screenshots here.
 - XML Layout
 
 ---
+## Installation 📥
+
+1. Clone this repository
+
+```bash
+git clone https://github.com/yourusername/Android-AC-Remote-App.git
+```
