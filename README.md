@@ -103,3 +103,10 @@ app/
 4. Submit Pull Request  
 
 ---
+## 🐞 Troubleshooting
+
+- App not working → Check IR support  
+- No response → Select correct brand  
+- WiFi issue → Same network required  
+
+---
