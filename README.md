@@ -95,3 +95,11 @@ app/
 - Google Assistant integration  
 
 ---
+## 🤝 Contributing
+
+1. Fork the repo  
+2. Create new branch  
+3. Add features  
+4. Submit Pull Request  
+
+---
