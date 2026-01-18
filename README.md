@@ -36,3 +36,10 @@ Add your app screenshots here.
 ```bash
 git clone https://github.com/yourusername/Android-AC-Remote-App.git
 ```
+
+## 🧠 How It Works
+
+1. App sends IR signal using phone IR blaster  
+2. AC receives same code as real remote  
+3. For WiFi AC → commands sent via local network  
+4. Each button mapped with HEX IR code  
