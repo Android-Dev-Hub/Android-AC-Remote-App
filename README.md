@@ -43,3 +43,15 @@ git clone https://github.com/yourusername/Android-AC-Remote-App.git
 2. AC receives same code as real remote  
 3. For WiFi AC → commands sent via local network  
 4. Each button mapped with HEX IR code  
+
+---
+
+## 🛠 Requirements
+
+- Android Studio  
+- Minimum Android 5.0  
+- Phone with IR Blaster (for IR feature)  
+- Kotlin / Java  
+- XML Layout  
+
+---
