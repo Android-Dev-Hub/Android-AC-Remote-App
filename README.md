@@ -86,3 +86,12 @@ app/
 - Change Mode  
 
 ---
+## ⚙ Future Improvements
+
+- Add WiFi AC support  
+- Voice control  
+- Auto temperature schedule  
+- Multiple AC profiles  
+- Google Assistant integration  
+
+---
