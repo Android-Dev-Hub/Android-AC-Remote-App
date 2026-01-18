@@ -69,3 +69,11 @@ app/
  │   ├── drawable
  │   └── values
 ```
+## 🔐 Permissions
+
+```xml
+<uses-permission android:name="android.permission.TRANSMIT_IR" />
+<uses-permission android:name="android.permission.INTERNET" />
+```
+
+---
