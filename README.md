@@ -77,3 +77,12 @@ app/
 ```
 
 ---
+## 🧪 Usage
+
+- Open App  
+- Select AC Brand  
+- Press Power ON  
+- Set Temperature  
+- Change Mode  
+
+---
