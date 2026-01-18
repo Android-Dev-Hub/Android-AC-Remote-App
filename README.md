@@ -117,3 +117,13 @@ This app works only with supported devices.
 Use on your own AC equipment only.
 
 ---
+## 👨‍💻 Author
+
+**Ishan Walia**
+
+GitHub: https://github.com/yourusername  
+LinkedIn: https://linkedin.com/in/ishanwalia
+
+---
+
+### Made with ❤️ for Android & IoT Lovers
