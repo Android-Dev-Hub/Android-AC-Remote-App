@@ -55,3 +55,17 @@ git clone https://github.com/yourusername/Android-AC-Remote-App.git
 - XML Layout  
 
 ---
+## 📂 Project Structure
+
+```
+app/
+ ├── java/
+ │   ├── MainActivity
+ │   ├── IrManager
+ │   ├── WifiManager
+ │   └── Models
+ ├── res/
+ │   ├── layout
+ │   ├── drawable
+ │   └── values
+```
