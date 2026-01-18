@@ -110,3 +110,10 @@ app/
 - WiFi issue → Same network required  
 
 ---
+
+## ⚠ Disclaimer
+
+This app works only with supported devices.  
+Use on your own AC equipment only.
+
+---
